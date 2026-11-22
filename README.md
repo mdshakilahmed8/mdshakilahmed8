@@ -19,6 +19,8 @@
 
 **Multi-tenant e-commerce SaaS**: storefront, admin and APIs for online sellers.
 
+At **ZincLoop**, where I'm Founder & CEO, I lead product engineering, cloud architecture and delivery for clients. Previously a partner at Barakah IT.
+
 ### 📘 Upcoming book: *DevOps for Developers* (Bengali Edition, v1)
 
 A hands-on guide, in Bangla, that takes developers from "the code works on my machine" to a live, scalable product:
