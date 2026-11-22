@@ -27,9 +27,11 @@ I work with startups and agencies as a freelancer or contractor, from an MVP in 
 - Store sync for Shopify, WooCommerce and custom APIs, plus billing and affiliates
 - Next.js 16, TypeScript, MongoDB, Redis/BullMQ, Docker, GitHub Actions CI/CD on a hardened VPS behind Cloudflare
 
-**Multi-tenant e-commerce SaaS**: storefront, admin and APIs for online sellers.
+**[TripSip](https://www.tripsip.com.bd/)**: a full travel booking platform for a Bangladeshi travel brand, built Airbnb-style: tours, hotels, flights and visa services with destination and date search, bilingual (English/Bangla) listings, offers and customer inquiries. Next.js front end with a custom booking back end.
 
-At **ZincLoop**, where I'm Founder & CEO, I lead product engineering, cloud architecture and delivery for clients. Previously a partner at Barakah IT.
+**All-in-one e-commerce platform** (launching soon): storefront, product and order management, payments and an admin dashboard for online sellers, built to run many shops from one codebase.
+
+At **[ZincLoop](https://zincloop.com)**, where I'm Founder & CEO, I lead product engineering, cloud architecture and delivery for clients. Previously a partner at Barakah IT.
 
 ### 📘 Upcoming book: *DevOps for Developers* (Bengali Edition, v1)
 
